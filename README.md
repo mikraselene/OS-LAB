@@ -1,6 +1,6 @@
 OS-LAB
 ---
-本学期操作系统的实验，暂且存在这里。里面大多是一些简单的 Linux 内核模块。
+本学期操作系统课程的实验，暂且存在这里。里面大多是一些简单的 Linux 内核模块和测试代码。
 
 Some simple Linux kernel modules developed for OS labs.
 
